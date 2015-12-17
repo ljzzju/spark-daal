@@ -56,7 +56,7 @@ Run the Tests
 A simple `runtest.sh` script is provided to easily run tests included. This
 script invokes `spark-submit` to submit jobs to a Spark cluster. Users will need
 to edit the script to set a proper cluster master coordinate. Also, make sure
-Intel DAAL runtie libraries and dependencies are included in `LD_LIBRARY_PATH`.
+Intel DAAL runtime libraries and dependencies are included in `LD_LIBRARY_PATH`.
 The best way to do this is run this command from Intel DAAL's installation
 directory:
 
