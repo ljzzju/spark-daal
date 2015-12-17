@@ -15,7 +15,7 @@
   		<artifactId>daal</artifactId>
   		<version>2016</version>
   		<scope>system</scope>
-  		<systemPath>C:\Users\zzhan68\.m2\repository\com\intel\daal\daal-lnx\2016\daal-lnx-2016.jar</systemPath>
+  		<systemPath>/opt/intel/daal/lib/daal.jar</systemPath>
   	</dependency>
   	<dependency>
   		<groupId>org.apache.spark</groupId>
