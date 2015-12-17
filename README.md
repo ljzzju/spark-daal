@@ -32,7 +32,6 @@ Build and Install
 1. Edit pom.xml to set the correct path for `daal.jar` on the build system. For
    example, if DAAL installation place is "/opt/intel/daal", then the pom.xml
    should contain:
-
 ```xml
     <dependency>
   		<groupId>com.intel.daal</groupId>
