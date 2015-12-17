@@ -39,7 +39,7 @@ Build and Install
   		<artifactId>daal</artifactId>
   		<version>2016</version>
   		<scope>system</scope>
-  		<systemPath>*/opt/intel/daal/daal.jar*</systemPath>
+  		<systemPath>/opt/intel/daal/daal.jar</systemPath>
   	</dependency>
  ```
 
