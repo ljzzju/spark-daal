@@ -44,7 +44,10 @@ Build and Install
  ```
 
 2. Build using this command:
-    mvn clean package -DskipTests
+
+```
+ mvn clean package -DskipTests
+```
 
 Two JAR files are produced, `spark-daal-1.0.jar` (the wrapper library) and
 `spark-daal-1.0-tests.jar` (tests). 
