@@ -42,8 +42,7 @@ Build and Install
   		<systemPath>/opt/intel/daal/daal.jar</systemPath>
   	</dependency>
  ```
-
-2. Build using this command:
+2. Build with this command:
 
 ```
  mvn clean package -DskipTests
