@@ -68,5 +68,5 @@ To run a test, just supply the test name, input path, and necessary arguments.
 For example,
 
 ```
- ./runtest.sh PCATest <input-path> <method-name> > <number-of-principals-to-return>
+ ./runtest.sh PCATest <input-path> <method-name> <number-of-principals-to-return>
 ```
